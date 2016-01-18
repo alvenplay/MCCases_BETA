@@ -1,0 +1,7 @@
+name: A_Cases
+version: 0.1-a
+author: Pawel--Alven
+main: me.Pawel.Cases.Main
+
+commands:
+  Case:
